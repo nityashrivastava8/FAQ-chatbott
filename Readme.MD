@@ -4,7 +4,7 @@ A chatbot that answers frequently asked questions. It was built for Task 2 of th
 
 ## Demo
 
-[Paste your demo video here]
+[Watch the demo video here](demo.mp4)
 
 ## How it works
 
